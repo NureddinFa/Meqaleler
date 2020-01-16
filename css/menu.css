@@ -1,0 +1,35 @@
+@font-face {
+  font-family: barmeno;
+  src: url(../font/Barmeno-Medium.otf);
+}
+
+.nav{
+	height: 60px;
+	background-color: black;
+	border-style: solid;
+	margin-top: 140px;
+	border-bottom-color: #fff;
+}
+
+.navitem1,
+.navitem5,
+.navitem3
+{
+	color: #fff;
+	display: inline-block;
+	font-family: 'barmeno';
+	font-size: 20px;
+	margin-top: 15px;
+	margin-left: 110px;
+}
+
+.navitem2,
+.navitem4,
+.navitem6{
+	color: gray;
+	display: inline-block;
+	font-family: 'barmeno';
+	font-size: 20px;
+	margin-top: 15px;
+	margin-left: 110px;
+}

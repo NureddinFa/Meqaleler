@@ -1,0 +1,222 @@
+@font-face {
+  font-family: barmeno;
+  src: url(../font/Barmeno-Medium.otf);
+}
+
+footer{
+	background-color: #fff;
+	height: 170px;
+	margin-top: 40px;
+	border-style: solid;
+	border-color: black;
+}
+
+.text{
+	color: black;
+	font-family: 'barmeno';
+	margin-left: 30px;
+	margin-top: 30px;
+	display: inline-block;
+	position: absolute;
+}
+
+.text2{
+	color: black;
+	font-family: 'barmeno';
+	position: absolute;
+	margin-left: 350px;
+	margin-top: 30px;
+	text-decoration: none;
+}
+
+.text3{
+	color: black;
+	font-family: 'barmeno';
+	position: absolute;
+	margin-left: 350px;
+	margin-top: 50px;
+	text-decoration: none;
+}
+
+.text4{
+	color: black;
+	font-family: 'barmeno';
+	position: absolute;
+	margin-left: 350px;
+	margin-top: 70px;
+	text-decoration: none;
+}
+
+.melumat{
+	margin-top: 50px;
+	margin-left: 20px;
+}
+
+.l2{
+	font-size: 30px;
+}
+
+.unvan{
+	margin-left: 680px;
+	font-family: 'barmeno';
+	margin-top: 83px;
+}
+
+@font-face {
+  font-family: logo;
+  src: url(../font/agency.ttf);
+}
+
+body{
+	margin: 0px;
+	padding: 0px;
+	background-color: black;
+}
+
+header{
+	background-color: #fff;
+	margin: 0px;
+	height: 200px;
+	border-style: solid;
+	border-color: black;
+}
+
+.logo{
+	color: black;
+	position: absolute;
+	margin-left: 50px;
+	font-family: 'logo';
+	font-size: 50px;
+}
+
+.face{
+	position: absolute;
+	margin-top: -99px;
+	margin-left: 1200px;
+}
+
+.insta{
+	position: absolute;
+	margin-top: -99px;
+	margin-left: 1231px;
+}
+
+.you{
+	position: absolute;
+	margin-top: -99px;
+	margin-left: 1260px;
+}
+
+@font-face {
+  font-family: barmeno;
+  src: url(../font/Barmeno-Medium.otf);
+}
+
+.nav{
+	height: 60px;
+	background-color: black;
+	border-style: solid;
+	margin-top: 140px;
+	border-bottom-color: #fff;
+}
+
+.navitem1,
+.navitem4,
+.navitem5,
+.navitem3{
+	color: #fff;
+	display: inline-block;
+	font-family: 'barmeno';
+	font-size: 20px;
+	margin-top: 15px;
+	margin-left: 110px;
+}
+
+.navitem2,
+.navitem6{
+	color: gray;
+	display: inline-block;
+	font-family: 'barmeno';
+	font-size: 20px;
+	margin-top: 15px;
+	margin-left: 110px;
+}
+
+@font-face {
+  font-family: barmeno;
+  src: url(font/Barmeno-Medium.otf);
+}
+
+.best{
+	background-color: #fff;
+	height: 300px;
+	width: 1200px;
+	margin-left: 90px;
+	margin-top: 30px;
+}
+
+.bsthd{
+	color: black;
+	font-family: 'barmeno';
+	font-size: 35px;
+	margin-left: 80px;
+	display: inline-block;
+	position: absolute;
+}
+
+.me{
+	display: inline-block;
+}
+
+.mel{
+	position: absolute;
+	margin-top: -220px;
+	width: 500px;
+	color: black;
+	font-size: 20px;
+	margin-left: 300px;
+	font-family: 'barmeno';
+}
+
+.etrafli{
+	padding: 0px;
+	margin: 0px;
+	display: inline-block;
+	position: absolute;
+	color: gray;
+	font-size: 20px;
+	margin-left: 385px;
+	margin-top: 135px;
+	font-family: 'barmeno';
+}
+
+.etrafli2{
+	padding: 0px;
+	margin: 0px;
+	display: inline-block;
+	position: absolute;
+	color: gray;
+	font-size: 20px;
+	margin-left: 195px;
+	margin-top: 157px;
+	font-family: 'barmeno';
+}
+
+
+/*HOVERS*/
+
+.best:hover{
+	box-shadow: 2px 2px 2px 2px #fff;
+}
+
+.ga{
+	color: black;
+}
+
+.slider{
+	margin-top: 30px;
+}
+
+@media (min-width: 0px) and (max-width: 947px){
+	body{background-color: blue;}
+}

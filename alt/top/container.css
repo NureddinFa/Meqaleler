@@ -1,0 +1,67 @@
+@font-face {
+  font-family: barmeno;
+  src: url(font/Barmeno-Medium.otf);
+}
+
+.best{
+	background-color: #fff;
+	height: 300px;
+	width: 1200px;
+	margin-left: 90px;
+	margin-top: 60px;
+}
+
+.bsthd{
+	color: black;
+	font-family: 'barmeno';
+	font-size: 35px;
+	margin-left: 50px;
+	display: inline-block;
+	position: absolute;
+}
+
+.me{
+	display: inline-block;
+	margin-left: 15px;
+}
+
+.mel{
+	position: absolute;
+	margin-top: -220px;
+	width: 500px;
+	color: black;
+	font-size: 20px;
+	margin-left: 300px;
+	font-family: 'barmeno';
+}
+
+.etrafli{
+	padding: 0px;
+	margin: 0px;
+	display: inline-block;
+	position: absolute;
+	color: gray;
+	font-size: 20px;
+	margin-left: 400px;
+	margin-top: 165px;
+	font-family: 'barmeno';
+}
+
+.etrafli2{
+	padding: 0px;
+	margin: 0px;
+	display: inline-block;
+	position: absolute;
+	color: gray;
+	font-size: 20px;
+	margin-left: 195px;
+	margin-top: 157px;
+	font-family: 'barmeno';
+}
+
+
+/*HOVERS*/
+
+.best:hover{
+	box-shadow: 2px 2px 2px 2px #fff;
+}
