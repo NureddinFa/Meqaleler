@@ -14,7 +14,8 @@
 .navitem1,
 .navitem4,
 .navitem5,
-.navitem3{
+.navitem3,
+.navitem6{
 	color: #fff;
 	display: inline-block;
 	font-family: 'barmeno';
@@ -23,8 +24,7 @@
 	margin-left: 110px;
 }
 
-.navitem2,
-.navitem6{
+.navitem2{
 	color: gray;
 	display: inline-block;
 	font-family: 'barmeno';
