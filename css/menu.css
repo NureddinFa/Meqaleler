@@ -13,7 +13,8 @@
 
 .navitem1,
 .navitem5,
-.navitem3
+.navitem3,
+.navitem6
 {
 	color: #fff;
 	display: inline-block;
@@ -24,8 +25,7 @@
 }
 
 .navitem2,
-.navitem4,
-.navitem6{
+.navitem4{
 	color: gray;
 	display: inline-block;
 	font-family: 'barmeno';
